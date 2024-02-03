@@ -1,5 +1,4 @@
-user = "@LeeJBott"  
-print(f"Hi, I’m {user}")  
+user = "@LeeJBott"   
 interests = [ "Python Programming", "Cloud Security", "Electronic Engineering" ]  
 for i in interests:  
 	  print(f" Interests: {i}")  
