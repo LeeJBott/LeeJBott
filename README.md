@@ -1,5 +1,3 @@
 user = "@LeeJBott"   
-interests = [ "Python Programming", "Cloud Security", "Electronic Engineering" ]  
-for i in interests:  
-	  print(f" Interests: {i}")  
+interests = [ "Python Programming", "Cloud Security", "Linux systems", "Electronic Engineering" ]  
 #How to reach me: Message me on Github.
