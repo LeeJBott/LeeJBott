@@ -1,3 +1,3 @@
 user = "@LeeJBott"   
-interests = [ "Python Programming", "Cloud Security", "Linux systems", "Electronic Engineering" ]  
+interests = [ "Python Programming", "Data Analysis", "Linux systems", "Electronic Engineering" ]  
 #How to reach me: Message me on Github...
