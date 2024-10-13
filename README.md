@@ -1,3 +1,3 @@
-user = "@LeeJBott"   
-interests = [ "Python Programming", "Data Analysis", "Linux systems", "Electronic Engineering" ]  
+@LeeJBott
+Python, GDScript.
 #How to reach me: Message me on Github...
