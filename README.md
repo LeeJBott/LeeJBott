@@ -1,3 +1,2 @@
-@LeeJBott  
 Python, GDScript.  
 #How to reach me: Message me on Github...  
